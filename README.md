@@ -119,5 +119,6 @@ MIT License - See [LICENSE](LICENSE) for details
 
 ## 📧 Contact
 
-Maintainer: https://github.com/Muhamedhossafy
+Maintainer: https://github.com/Muhamedhossafy 
+
 For support, please open an issue in the repository.
