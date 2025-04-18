@@ -118,7 +118,8 @@ npm run build
 MIT License - See [LICENSE](LICENSE) for details
 
 ## 📧 Contact
-
-Maintainer: https://github.com/Muhamedhossafy 
+- Maintainer: https://github.com/Muhamedhossafy 
+- ✉️ **Email**: [muhamedammar0900@gmail.com](mailto:muhamedammar0900@gmail.com)  
+- 🔗 **LinkedIn**: [Muhamad Ammar](https://www.linkedin.com/in/muhamad-ammar-18b427306)  
 
 For support, please open an issue in the repository.
