@@ -52,12 +52,6 @@ A complete **full-stack e-commerce solution** featuring:
 
 *Backend product management system with filtering capabilities*
 
-## ✨ Key Features Shown
-1. **Responsive Category Navigation** (Gaming, Devices, Computers etc.)
-2. **Product Detail Views** with stock status and pricing
-3. **User Authentication Flow** (Login/Signup)
-4. **Admin Product Management** (CRUD operations)
-
 ---
 
 ## 🚀 Getting Started
