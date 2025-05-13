@@ -27,6 +27,53 @@ A complete **full-stack e-commerce solution** featuring:
 - **Database**: MongoDB
 - **API**: RESTful endpoints
 
+  هذا القسم يمكن أن يكون لعرض صور المشروع. إليك مثال على كيفية تنظيمه:
+
+# 📸 Project Screenshots
+
+## 🖥️ Frontend Views
+### Home Page
+![Home Page](/frontend/public/screenshots/home.png)  
+*Main landing page with featured products*
+
+### Product Listing
+![Products Page](/frontend/public/screenshots/products.png)  
+*Grid view of all available products*
+
+### Shopping Cart
+![Cart Page](/frontend/public/screenshots/cart.png)  
+*User's shopping cart with items*
+
+## 📱 Mobile Responsive Design
+![Mobile View](/frontend/public/screenshots/mobile.png)  
+*Responsive design on mobile devices*
+
+## 🔧 Admin Dashboard
+![Admin Panel](/frontend/public/screenshots/admin.png)  
+*Admin interface for managing products*
+
+## 🛠️ Backend API Examples
+### API Response
+```json
+{
+  "products": [
+    {
+      "id": "prod_123",
+      "name": "Premium Headphones",
+      "price": 199.99
+    }
+  ]
+}
+```
+
+### Database Schema
+![MongoDB Schema](/backend/screenshots/schema.png)  
+*MongoDB collection relationships*
+
+---
+
+
+
 ## 🚀 Getting Started
 
 ### Frontend Setup
