@@ -27,52 +27,34 @@ A complete **full-stack e-commerce solution** featuring:
 - **Database**: MongoDB
 - **API**: RESTful endpoints
 
-  هذا القسم يمكن أن يكون لعرض صور المشروع. إليك مثال على كيفية تنظيمه:
 
 # 📸 Project Screenshots
 
-## 🖥️ Frontend Views
-### Home Page
-![Home Page](/frontend/public/screenshots/home.png)  
-*Main landing page with featured products*
+## 🛍️ E-Commerce Platform Showcase
 
-### Product Listing
-![Products Page](/frontend/public/screenshots/products.png)  
-*Grid view of all available products*
+### 🏠 Home Page
+![Home Page](Screenshot_20250513_112302_YouTube.jpg)  
+*Modern homepage with product categories and quality promise section*
 
-### Shopping Cart
-![Cart Page](/frontend/public/screenshots/cart.png)  
-*User's shopping cart with items*
+### 👕 Product Detail Page
+![Product Page](Screenshot_20250513_112333_YouTube.jpg)  
+*Product view showing Naruto T-shirt details with size/color options*
 
-## 📱 Mobile Responsive Design
-![Mobile View](/frontend/public/screenshots/mobile.png)  
-*Responsive design on mobile devices*
+### 🔐 Login Page
+![Login Page](Screenshot_20250513_112356_YouTube.jpg)  
+*Clean authentication interface for user sign-in*
 
-## 🔧 Admin Dashboard
-![Admin Panel](/frontend/public/screenshots/admin.png)  
-*Admin interface for managing products*
+### 🛒 Admin Dashboard
+![Admin Panel](Screenshot_20250513_112458_YouTube.jpg)  
+*Backend product management system with filtering capabilities*
 
-## 🛠️ Backend API Examples
-### API Response
-```json
-{
-  "products": [
-    {
-      "id": "prod_123",
-      "name": "Premium Headphones",
-      "price": 199.99
-    }
-  ]
-}
-```
-
-### Database Schema
-![MongoDB Schema](/backend/screenshots/schema.png)  
-*MongoDB collection relationships*
+## ✨ Key Features Shown
+1. **Responsive Category Navigation** (Gaming, Devices, Computers etc.)
+2. **Product Detail Views** with stock status and pricing
+3. **User Authentication Flow** (Login/Signup)
+4. **Admin Product Management** (CRUD operations)
 
 ---
-
-
 
 ## 🚀 Getting Started
 
