@@ -33,19 +33,23 @@ A complete **full-stack e-commerce solution** featuring:
 ## 🛍️ E-Commerce Platform Showcase
 
 ### 🏠 Home Page
-![Home Page](Screenshot_20250513_112302_YouTube.jpg)  
+![Home Page](![E-Commerce Platform1](https://github.com/user-attachments/assets/9c5b3b13-3237-40f2-991d-be9031823b1e)
+)  
 *Modern homepage with product categories and quality promise section*
 
 ### 👕 Product Detail Page
-![Product Page](Screenshot_20250513_112333_YouTube.jpg)  
+![Product Page](![E-Commerce Platform2](https://github.com/user-attachments/assets/745e455f-cb39-40e3-959d-e4d31b3c16cf)
+)  
 *Product view showing Naruto T-shirt details with size/color options*
 
 ### 🔐 Login Page
-![Login Page](Screenshot_20250513_112356_YouTube.jpg)  
+![Login Page](![E-Commerce Platform3](https://github.com/user-attachments/assets/0ba16287-911d-4277-bc21-3b129785bd68)
+)  
 *Clean authentication interface for user sign-in*
 
 ### 🛒 Admin Dashboard
-![Admin Panel](Screenshot_20250513_112458_YouTube.jpg)  
+![Admin Panel](![E-Commerce Platform4](https://github.com/user-attachments/assets/f8994e9a-5c0e-474c-86f7-6702420bcbf0)
+
 *Backend product management system with filtering capabilities*
 
 ## ✨ Key Features Shown
