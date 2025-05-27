@@ -28,9 +28,8 @@ A complete **full-stack e-commerce solution** featuring:
 - **API**: RESTful endpoints
 
 
-# 📸 Project Screenshots
+## 📸 Project Screenshots
 
-## 🛍️ E-Commerce Platform Showcase
 
 ### 🏠 Home Page
 ![E-Commerce Platform1](https://github.com/user-attachments/assets/9c5b3b13-3237-40f2-991d-be9031823b1e)
